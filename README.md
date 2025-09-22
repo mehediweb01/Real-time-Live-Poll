@@ -4,10 +4,16 @@ Master Front-end Web Development with modern technologies like Tailwind CSS, Rea
 
 ## 📌 Project: Real-time Live Poll
 
-### ⚡ Technologies
+### ⚡ Technologies used in the ui
 
 - React.js
 - TailwindCSS (version 4)
+- Socket.io-client
+
+## ⚡ Technologies used in the server
+
+- Express.js
+- cors
 - Socket.io
 
 ---
